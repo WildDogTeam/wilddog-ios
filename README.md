@@ -41,5 +41,5 @@ $ sudo gem install cocoapods
 
 	```
 	pod 'Wilddog/Auth'
-	pod 'Wilddog/Database'
+	pod 'Wilddog/Sync'
 	```
