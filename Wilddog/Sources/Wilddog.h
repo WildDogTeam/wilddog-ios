@@ -6,9 +6,6 @@
 //  Copyright © 2016年 wilddog. All rights reserved.
 //
 
-#import <Wilddog/WDGApp.h>
-#import <Wilddog/WDGOptions.h>
-
 #if !defined(__has_include)
 #error "Wilddog.h won't import anything if your compiler doesn't support __has_include. Please \
 import the headers individually."
@@ -22,7 +19,7 @@ import the headers individually."
 #endif
 
 #if __has_include(<WilddogCore/WilddogCore.h>)
-#import <WilddogCore/WilddogCorec.h>
+#import <WilddogCore/WilddogCore.h>
 #endif
 
 #endif  // defined(__has_include)
